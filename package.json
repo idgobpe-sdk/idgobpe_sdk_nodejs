@@ -1,0 +1,24 @@
+{
+  "name": "idgobpe_sdk2",
+  "version": "1.0.1",
+  "description": "SDK for connect with ID Gob.pe",
+  "main": "index.js",
+  "repository": "git@github.com:idgobpe-sdk/idgobpe_sdk_nodejs.git",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pcm",
+    "idgobpe"
+  ],
+  "type": "commonjs",
+  "license": "ISC",
+  "author": "PCM",
+  "homepage": "https://id.gob.pe",
+  "dependencies": {
+    "http-build-query": "^0.7.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "underscore": "^1.9.1"
+  }
+}
